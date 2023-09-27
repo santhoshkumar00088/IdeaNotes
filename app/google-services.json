@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017800604275",
+    "project_id": "ideanotes-42d11",
+    "storage_bucket": "ideanotes-42d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017800604275:android:a05299dc7f6d2100780806",
+        "android_client_info": {
+          "package_name": "com.example.ideanotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017800604275-0hukd1banfegh02gk6rlb0g483ju6dto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0HaOj6cacyplrTmVzqKXuh3cl8l_JH-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017800604275-0hukd1banfegh02gk6rlb0g483ju6dto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
